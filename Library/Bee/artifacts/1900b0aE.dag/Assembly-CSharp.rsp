@@ -357,6 +357,7 @@
 "Assets/PlayerMovement.cs"
 "Assets/Scripts/Movement.cs"
 "Assets/Scripts/TestScript.cs"
+"Assets/WinCondition.cs"
 -langversion:9.0
 /deterministic
 /optimize+
